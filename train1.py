@@ -1,5 +1,3 @@
-import shutil
-
 import tensorflow as tf
 from keras import layers,models
 from keras.preprocessing.image import ImageDataGenerator
